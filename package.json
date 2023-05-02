@@ -1,0 +1,14 @@
+{
+  "name": "entretiens",
+  "version": "1.0.0",
+  "description": "Your job is to write a command-line interface in Node.js. \r This program has to filter a list of elements containing a pattern.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
